@@ -1,6 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
 target/
+.log
+replay_pid5800.log
+replay_pid9620.log
+replay_pid12876.log
+replay_pid13856.log
+.idea
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
